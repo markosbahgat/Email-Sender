@@ -1,6 +1,6 @@
 ### Email-Sender
 
-"sending email" script is a simple script that use gmail account to send emails to other persons and it takes the following arguments as an input:
+"sending email" is a simple script that use gmail account to send emails to other persons and it takes the following arguments as an input:
 
 
 * sender credentials like email address and password to use your account.
